@@ -28,8 +28,6 @@ const Header = () => {
         <div id="menu" className="block">
           <a
             href="https://www.google.com"
-            target="_blank"
-            rel="noopener noreferrer"
             className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white"
           >
             <svg
