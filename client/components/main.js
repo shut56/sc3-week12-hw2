@@ -8,7 +8,7 @@ const Main = () => {
       <Head title="Hello" />
       <div
         id="title"
-        className="bg-indigo-800 text-white font-bold rounded-lg border shadow-lg p-10"
+        className="bg-indigo-800 text-white font-bold rounded-lg border shadow-lg p-2"
       >
         Main
         <div>
