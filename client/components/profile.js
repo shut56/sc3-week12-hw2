@@ -5,7 +5,7 @@ import Head from './head'
 const Profile = () => {
   const { user } = useParams()
   return (
-    <div>
+    <div className="profile">
       <Head title="Hello" />
       <div
         id="title"
