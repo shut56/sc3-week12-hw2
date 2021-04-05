@@ -13,7 +13,7 @@ const Main = () => {
         Main
       </div>
       <div>
-        <Link to="/dashboard/">Go To Root</Link>
+        <Link to="/dashboard">Go To Root</Link>
       </div>
       <div>
         <Link to="/dashboard/profile/385666b1-bff5-11e9-95ba-1bf845c18f8d">Go To Profile</Link>
