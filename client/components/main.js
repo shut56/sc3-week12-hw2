@@ -4,7 +4,7 @@ import Head from './head'
 
 const Main = () => {
   return (
-    <div>
+    <div className="profile">
       <Head title="Hello" />
       <div
         id="title"
@@ -16,7 +16,7 @@ const Main = () => {
         <Link to="/dashboard/">Go To Root</Link>
       </div>
       <div>
-        <Link to="/dashboard/profile/385666b1-bff5-11e9-95ba-1bf845c18f8d">Go To Profile</Link>{' '}
+        <Link to="/dashboard/profile/385666b1-bff5-11e9-95ba-1bf845c18f8d">Go To Profile</Link>
       </div>
     </div>
   )
